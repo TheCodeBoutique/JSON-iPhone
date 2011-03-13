@@ -1,0 +1,177 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* LuckyNumbersAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{156, 0}";
+			sepNavVisRange = "{2182, 553}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* LuckyNumbers */ = {
+		activeExec = 0;
+		executables = (
+			D4EBC432132C491300619E6E /* LuckyNumbers */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* LuckyNumbersViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 382}}";
+			sepNavSelRange = "{311, 0}";
+			sepNavVisRange = "{0, 312}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* LuckyNumbersViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {943, 988}}";
+			sepNavSelRange = "{555, 0}";
+			sepNavVisRange = "{216, 529}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D4EBC432132C491300619E6E /* LuckyNumbers */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* LuckyNumbers */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* LuckyNumbers */,
+		);
+		codeSenseManager = D4EBC442132C491600619E6E /* Code sense */;
+		executables = (
+			D4EBC432132C491300619E6E /* LuckyNumbers */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					735,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321669395;
+			PBXWorkspaceStateSaveDate = 321669395;
+		};
+		perUserProjectItems = {
+			D4EBC469132C4B5400619E6E /* PBXTextBookmark */ = D4EBC469132C4B5400619E6E /* PBXTextBookmark */;
+			D4EBC46A132C4B5400619E6E /* PBXTextBookmark */ = D4EBC46A132C4B5400619E6E /* PBXTextBookmark */;
+			D4EBC486132C4F6500619E6E /* PBXTextBookmark */ = D4EBC486132C4F6500619E6E /* PBXTextBookmark */;
+			D4EBC487132C4F6500619E6E /* PBXTextBookmark */ = D4EBC487132C4F6500619E6E /* PBXTextBookmark */;
+			D4EBC490132C503F00619E6E /* PBXTextBookmark */ = D4EBC490132C503F00619E6E /* PBXTextBookmark */;
+		};
+		sourceControlManager = D4EBC441132C491600619E6E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D4EBC432132C491300619E6E /* LuckyNumbers */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LuckyNumbers;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D4EBC441132C491600619E6E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D4EBC442132C491600619E6E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D4EBC446132C4AC400619E6E /* JSON.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2070, 858}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1846, 911}";
+		};
+	};
+	D4EBC469132C4B5400619E6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LuckyNumbersAppDelegate.m */;
+		name = "LuckyNumbersAppDelegate.m: 8";
+		rLen = 0;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 553;
+		vrLoc = 2182;
+	};
+	D4EBC46A132C4B5400619E6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4EBC446132C4AC400619E6E /* JSON.h */;
+		name = "JSON.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 911;
+		vrLoc = 1846;
+	};
+	D4EBC486132C4F6500619E6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LuckyNumbersViewController.m */;
+		name = "LuckyNumbersViewController.m: 23";
+		rLen = 0;
+		rLoc = 555;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 53;
+	};
+	D4EBC487132C4F6500619E6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LuckyNumbersViewController.h */;
+		name = "LuckyNumbersViewController.h: 14";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 312;
+		vrLoc = 0;
+	};
+	D4EBC490132C503F00619E6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LuckyNumbersViewController.h */;
+		name = "LuckyNumbersViewController.h: 19";
+		rLen = 0;
+		rLoc = 311;
+		rType = 0;
+		vrLen = 312;
+		vrLoc = 0;
+	};
+}

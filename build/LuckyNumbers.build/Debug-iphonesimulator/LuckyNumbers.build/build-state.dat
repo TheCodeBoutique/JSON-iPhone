@@ -1,0 +1,424 @@
+TLuckyNumbers
+v7
+r0
+t321671126.917854
+cCheck dependencies
+cProcessInfoPlistFile /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/Info.plist LuckyNumbers-Info.plist
+cCompileXIB /Users/kcarriedo/Desktop/LuckyNumbers/MainWindow.xib
+cCompileXIB /Users/kcarriedo/Desktop/LuckyNumbers/LuckyNumbersViewController.xib
+cProcessPCH /var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch.gch LuckyNumbers_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/main.o /Users/kcarriedo/Desktop/LuckyNumbers/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbersAppDelegate.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbersViewController.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/NSObject+SBJSON.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/NSString+SBJSON.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonBase.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonParser.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonWriter.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers normal i386
+cGenerateDSYMFile /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app.dSYM /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers
+cTouch /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/JSON.h
+c000000004D2B12CC0000000000000AC5
+t1294668492
+s2757
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersAppDelegate.h
+c000000004D7C119300000000000001FE
+t1299976595
+s510
+i<UIKit/UIKit.h>
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersAppDelegate.m
+c000000004D7C11930000000000000AAF
+t1299976595
+s2735
+i"LuckyNumbersAppDelegate.h"
+i"LuckyNumbersViewController.h"
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersViewController.h
+c000000004D7C18BE0000000000000138
+t1299978430
+s312
+i<UIKit/UIKit.h>
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersViewController.m
+c000000004D7C17C9000000000000067C
+t1299978185
+s1660
+i"LuckyNumbersViewController.h"
+i"JSON.h"
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSObject+SBJSON.h
+c000000004D2B12CC000000000000085F
+t1294668492
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSObject+SBJSON.m
+c000000004D2B12CC000000000000077D
+t1294668492
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSString+SBJSON.h
+c000000004D2B12CC00000000000007F0
+t1294668492
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSString+SBJSON.m
+c000000004D2B12CC000000000000075D
+t1294668492
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonBase.h
+c000000004D2B12CC0000000000000B82
+t1294668492
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonBase.m
+c000000004D2B12CC0000000000000AC1
+t1294668492
+s2753
+i"SBJsonBase.h"
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonParser.h
+c000000004D2B12CC0000000000000C8F
+t1294668492
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonParser.m
+c000000004D2B12CC0000000000003B7A
+t1294668492
+s15226
+i"SBJsonParser.h"
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonWriter.h
+c000000004D2B12CC00000000000011D9
+t1294668492
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonWriter.m
+c000000004D2B12CC000000000000206D
+t1294668492
+s8301
+i"SBJsonWriter.h"
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/LuckyNumbersViewController.xib
+c000000004D7C184D00000000000048EF
+t1299978317
+s18671
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/LuckyNumbers_Prefix.pch
+c000000004D7C119300000000000000C1
+t1299976595
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/MainWindow.xib
+c000000004D7C11930000000000004E65
+t1299976595
+s20069
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app
+t1299978326
+s238
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app.dSYM
+t1299978326
+s102
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/Info.plist
+t1299976961
+s611
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers
+t1299978326
+s48100
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbersViewController.nib
+t1299978326
+s1353
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/MainWindow.nib
+t1299976962
+s1133
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/PkgInfo
+t1299976961
+s8
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbers.LinkFileList
+c000000004D7C1349000000000000046D
+t1299977033
+s1133
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbersAppDelegate.o
+t1299978326
+s51360
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbersViewController.o
+t1299978326
+s45092
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/NSObject+SBJSON.o
+t1299977034
+s7388
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/NSString+SBJSON.o
+t1299977034
+s7280
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonBase.o
+t1299977034
+s13208
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonParser.o
+t1299977034
+s36888
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonWriter.o
+t1299977034
+s26660
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/main.o
+t1299976963
+s6300
+
+N/Users/kcarriedo/Desktop/LuckyNumbers/main.m
+c000000004D7C1193000000000000016F
+t1299976595
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch.gch
+t1299976963
+s15453392
+
+NLuckyNumbers-Info.plist
+c000000004D7C1193000000000000038D
+t1299976595
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321671125#321671125#0(0"0(0#1#0"8609178784#0"0#
+
+CCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbersAppDelegate.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321671126.665183
+e321671126.838711
+r1
+xCompileC
+xbuild/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbersAppDelegate.o
+x/Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersAppDelegate.m321671126#321671126#0(0"0(0#0#71"/Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersAppDelegate.m8610681504#2049"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-generated-files.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-own-target-headers.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-all-target-headers.hmap -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-project-headers.hmap -F/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator -I/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/include -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources/i386 -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources -include /var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch -c /Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersAppDelegate.m -o /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbersAppDelegate.o0#
+
+CCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbersViewController.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321671126.666918
+e321671126.823926
+r1
+xCompileC
+xbuild/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbersViewController.o
+x/Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersViewController.m321671126#321671126#0(0"0(0#0#74"/Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersViewController.m8605910976#2055"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-generated-files.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-own-target-headers.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-all-target-headers.hmap -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-project-headers.hmap -F/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator -I/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/include -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources/i386 -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources -include /var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch -c /Users/kcarriedo/Desktop/LuckyNumbers/Classes/LuckyNumbersViewController.m -o /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbersViewController.o0#
+
+CCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/NSObject+SBJSON.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321669833.909785
+e321669834.008289
+r1
+xCompileC
+xbuild/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSObject+SBJSON.m321669833#321669834#0(0"0(0#0#63"/Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSObject+SBJSON.m8612819456#2033"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-generated-files.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-own-target-headers.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-all-target-headers.hmap -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-project-headers.hmap -F/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator -I/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/include -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources/i386 -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources -include /var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch -c /Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSObject+SBJSON.m -o /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/NSString+SBJSON.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321669834.008418
+e321669834.121603
+r1
+xCompileC
+xbuild/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSString+SBJSON.m321669834#321669834#0(0"0(0#0#63"/Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSString+SBJSON.m8612415968#2033"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-generated-files.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-own-target-headers.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-all-target-headers.hmap -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-project-headers.hmap -F/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator -I/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/include -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources/i386 -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources -include /var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch -c /Users/kcarriedo/Desktop/LuckyNumbers/Classes/NSString+SBJSON.m -o /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonBase.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321669834.016988
+e321669834.144224
+r1
+xCompileC
+xbuild/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonBase.o
+x/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonBase.m321669834#321669834#0(0"0(0#0#58"/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonBase.m8610795328#2023"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-generated-files.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-own-target-headers.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-all-target-headers.hmap -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-project-headers.hmap -F/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator -I/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/include -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources/i386 -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources -include /var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch -c /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonBase.m -o /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonParser.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321669834.121737
+e321669834.287383
+r1
+xCompileC
+xbuild/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonParser.o
+x/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonParser.m321669834#321669834#0(0"0(0#0#60"/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonParser.m8612663552#2027"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-generated-files.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-own-target-headers.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-all-target-headers.hmap -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-project-headers.hmap -F/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator -I/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/include -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources/i386 -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources -include /var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch -c /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonParser.m -o /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonWriter.o /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321669834.144341
+e321669834.306822
+r1
+xCompileC
+xbuild/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonWriter.m321669834#321669834#0(0"0(0#0#60"/Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonWriter.m8612273280#2027"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-generated-files.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-own-target-headers.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-all-target-headers.hmap -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-project-headers.hmap -F/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator -I/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/include -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources/i386 -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources -include /var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch -c /Users/kcarriedo/Desktop/LuckyNumbers/Classes/SBJsonWriter.m -o /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/main.o /Users/kcarriedo/Desktop/LuckyNumbers/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321669763.813061
+e321669763.939513
+r1
+xCompileC
+xbuild/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/main.o
+x/Users/kcarriedo/Desktop/LuckyNumbers/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/kcarriedo/Desktop/LuckyNumbers/main.m321669763#321669763#0(0"0(0#0#44"/Users/kcarriedo/Desktop/LuckyNumbers/main.m8608996512#2003"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-generated-files.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-own-target-headers.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-all-target-headers.hmap -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-project-headers.hmap -F/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator -I/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/include -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources/i386 -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources -include /var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch -c /Users/kcarriedo/Desktop/LuckyNumbers/main.m -o /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/kcarriedo/Desktop/LuckyNumbers/LuckyNumbersViewController.xib
+s321671125.606061
+e321671126.664815
+r1
+xCompileXIB
+x/Users/kcarriedo/Desktop/LuckyNumbers/LuckyNumbersViewController.xib
+lSLF07#2@41"CompileXIB LuckyNumbersViewController.xib321671125#321671126#0(0"0(0#0#68"/Users/kcarriedo/Desktop/LuckyNumbers/LuckyNumbersViewController.xib8612523328#604"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbersViewController.nib /Users/kcarriedo/Desktop/LuckyNumbers/LuckyNumbersViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/kcarriedo/Desktop/LuckyNumbers/MainWindow.xib
+s321669761.807238
+e321669762.414390
+r1
+xCompileXIB
+x/Users/kcarriedo/Desktop/LuckyNumbers/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321669761#321669762#0(0"0(0#0#52"/Users/kcarriedo/Desktop/LuckyNumbers/MainWindow.xib8609492672#572"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/MainWindow.nib /Users/kcarriedo/Desktop/LuckyNumbers/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app.dSYM /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers
+s321671126.874581
+e321671126.912208
+r1
+xGenerateDSYMFile
+x/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app.dSYM
+x/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/LuckyNumbers.app.dSYM build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers321671126#321671126#0(0"0(0#0#95"/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers8606191808#395"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers -o /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app.dSYM0#
+
+CLd /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers normal i386
+s321671126.838822
+e321671126.874461
+r1
+xLd
+x/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers
+xnormal
+xi386
+lSLF07#2@100"Link /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers321671126#321671126#0(0"0(0#0#0"8609434304#920"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator -F/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator -filelist /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/Objects-normal/i386/LuckyNumbers.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/LuckyNumbers0#
+
+CProcessInfoPlistFile /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/Info.plist LuckyNumbers-Info.plist
+s321669761.751150
+e321669761.807124
+r1
+xProcessInfoPlistFile
+x/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/Info.plist
+xLuckyNumbers-Info.plist
+lSLF07#2@31"Process LuckyNumbers-Info.plist321669761#321669761#0(0"0(0#0#61"/Users/kcarriedo/Desktop/LuckyNumbers/LuckyNumbers-Info.plist30962724186357872#491"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LuckyNumbers-Info.plist -genpkginfo /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app/Info.plist0#
+
+CProcessPCH /var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch.gch LuckyNumbers_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321669762.414618
+e321669763.812625
+r1
+xProcessPCH
+x/var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch.gch
+xLuckyNumbers_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile LuckyNumbers_Prefix.pch321669762#321669763#0(0"0(0#0#61"/Users/kcarriedo/Desktop/LuckyNumbers/LuckyNumbers_Prefix.pch8604389408#1891"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-generated-files.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-own-target-headers.hmap -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-all-target-headers.hmap -iquote /Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/LuckyNumbers-project-headers.hmap -F/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator -I/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/include -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources/i386 -I/Users/kcarriedo/Desktop/LuckyNumbers/build/LuckyNumbers.build/Debug-iphonesimulator/LuckyNumbers.build/DerivedSources -c /Users/kcarriedo/Desktop/LuckyNumbers/LuckyNumbers_Prefix.pch -o /var/folders/Mj/MjmmPnsMFhOnJ56PCfyMyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LuckyNumbers_Prefix-gqzxyzttwlziuvdritvouiysmvzz/LuckyNumbers_Prefix.pch.gch0#
+
+CTouch /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app
+s321671126.912340
+e321671126.917799
+r1
+xTouch
+x/Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app
+lSLF07#2@88"Touch /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app321671126#321671126#0(0"0(0#0#0"8604664704#281"    cd /Users/kcarriedo/Desktop/LuckyNumbers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kcarriedo/Desktop/LuckyNumbers/build/Debug-iphonesimulator/LuckyNumbers.app0#
+
